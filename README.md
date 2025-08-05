@@ -19,7 +19,7 @@ $ cd bloodhound
 
 ## Download Compose file
 
-$ wget https://github.com/thiagosmith/bloodhound/blob/main/docker-compose.yml
+$ wget [https://github.com/thiagosmith/bloodhound/blob/main/docker-compose.yml](https://raw.githubusercontent.com/thiagosmith/bloodhound/refs/heads/main/docker-compose.yml)
 
 ## Up BloodHound
 
